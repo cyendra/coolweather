@@ -5,4 +5,7 @@
     <color name="colorAccent">#FF4081</color>
     <color name="colorChooseAreaBackground">#484E61</color>
     <color name="colorChooseAreaTextColor">#fff</color>
+    <color name="colorWeatherBackground">#484E61</color>
+    <color name="colorWeatherTextColor">#fff</color>
+    <color name="colorWeatherBackground2">#27A5F9</color>
 </resources>
